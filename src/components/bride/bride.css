@@ -1,0 +1,8 @@
+/* Apply animations to images */
+.slide-from-left {
+    animation: slideInFromLeft 1s ease;
+  }
+  
+  .slide-from-right {
+    animation: slideInFromRight 1s ease;
+  }
