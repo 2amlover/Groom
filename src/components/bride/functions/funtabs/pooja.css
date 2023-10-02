@@ -7,11 +7,11 @@
   }
   
   .pooja-image {
-    max-width: 100%; /* Make the image responsive */
+    max-width: 90%; /* Make the image responsive */
   }
   
   .pooja-card {
-    max-width: 100%; /* Make the card responsive */
+    max-width: 90%; /* Make the card responsive */
     margin: 0;
   }
   
